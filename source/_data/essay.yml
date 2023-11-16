@@ -1,0 +1,48 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://telegraph-image-766.pages.dev/file/7bb952e819a8f65acbe4c.jpg
+  essay_list:
+    - content: 降温了，多穿衣服别亏待自己
+      date: 2023/11/14
+      aplayer:
+        server: netease
+        id: 2089515207
+    - content: 入冬了，整杯奶茶犒劳一下自己
+      address: 中山珠海
+      date: 2023/11/8 21:21:00
+      image:
+        - https://telegraph-image-766.pages.dev/file/03847dc9a2319cc93b099.jpg
+    - content: 五一假期内卷 11 公里！！！！！
+      date: 2023/04/29
+      image:
+        - https://telegraph-image-766.pages.dev/file/e9129156054561adc35e3.jpg
+        - https://telegraph-image-766.pages.dev/file/6e8947c6c55454b1b7176.jpg
+        - https://telegraph-image-766.pages.dev/file/24df1e52192713e0c2164.jpg
+        - https://telegraph-image-766.pages.dev/file/f74f688f8e253365c22fc.jpg
+        - https://telegraph-image-766.pages.dev/file/86fab10e490998eb0cf84.jpg
+      address: 中山阜沙
+    - content: 全局音乐的动画也处理好了, nice!
+      date: 2023/10/29
+    - content: 蛋卷怎么能这么可爱！！！
+      date: 2023/6/17 19:08:35
+      address: 中山阜沙
+      image:
+        - https://telegraph-image-766.pages.dev/file/77d274356238c249a20ff.jpg
+    - content: 终于把相册集搞定了, 你大爷的，搞半天文件没配置好，疯狂报错！！！！！！！！
+      date: 2023/10/28
+    - content: 和朋友一起OP
+      date: 2023/04/08 18:43:00
+      image:
+        - https://telegraph-image-766.pages.dev/file/a908a99de6740a47d9428.jpg
+        - https://telegraph-image-766.pages.dev/file/2cd35fa8eefa8a465144b.jpg
+        - https://telegraph-image-766.pages.dev/file/f1ccceffa7ebd191ab7bd.jpg
+    - content: 歌曲推荐
+      date: 2022/09/25
+      aplayer:
+        server: netease
+        id: 1890402858

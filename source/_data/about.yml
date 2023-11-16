@@ -1,0 +1,103 @@
+- class_name: 关于页
+  subtitle: 生活很难，默默前行
+  avatarImg: https://picss.sunbangyan.cn/2023/10/31/309776a843accac15359f0cd2c6a3023.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发废物一个
+    right:
+      - 专修交互与设计 🤝
+      - 旅游运动派 🏃🏻‍♂️
+      - 团队小组的4090 🖥️
+      - 人不狠，话也不多 💢
+  name: 银猫
+  description: 是一名学生、开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 因为
+    title2: 喜欢而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 旅游
+  helloAbout: ようこそ！
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 生涯感受
+    list:
+      - desc: 恭喜你发现了新大陆，
+      - desc: 这里是我用哔哩哔哩的一个UP
+      - desc: 安知鱼大佬的框架
+      - desc: 我诞生在广东中山，地地道道的广东人
+      - desc: 目前就都珠海南方IT学院
+      - desc: 在班上称为Jerry,我也是服了
+      - desc: 专业：软件与信息服务
+      - desc: 喜欢打APEX等等的射击游戏，也是个手工宅
+      - desc: 特别喜欢钻研捡垃圾，以最低的价格打游戏
+    img: https://telegraph-image-766.pages.dev/file/2254dc90093d300efcbe9.gif
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，广东省，中山市
+    background: https://telegraph-image-766.pages.dev/file/af17ba8312bb8b8c6389a.png
+    backgroundDark: https://telegraph-image-766.pages.dev/file/af17ba8312bb8b8c6389a.png
+  selfInfo:
+    selfInfoTips1: 诞生
+    selfInfoContentYear: 2004
+    selfInfoTips2: 珠海南方IT学院
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大二学生 🤓
+  personalities:
+    author_name: 提倡
+    personality_type: INFJ-T型
+    photo_url: https://telegraph-image-766.pages.dev/file/af17ba8312bb8b8c6389a.png
+    personality_img: https://telegraph-image-766.pages.dev/file/a23242e41328089ce4a96.png
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 我想把这个不完美的故事,
+    maxim_bottom: 变成我们所期望的样子。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回不是很好的 Jerry
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神
+    game_uid: "UID: 114856575"
+    game_bg: https://telegraph-image-766.pages.dev/file/14e0109cf7472485f6edc.png
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 关于我转生变成史莱姆这档事
+        href: https://www.bilibili.com/bangumi/media/md139252
+        cover: https://telegraph-image-766.pages.dev/file/0cc88a9751e36dea1246d.png
+      - name: Charlotte
+        href: https://www.bilibili.com/bangumi/media/md2572
+        cover: https://telegraph-image-766.pages.dev/file/1c1a9f522e9dd08a3c433.png
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+      - name: 龙与虎
+        href: https://www.bilibili.com/bangumi/media/md1672
+        cover: https://telegraph-image-766.pages.dev/file/2ebeb95a596645473b38e.png
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://telegraph-image-766.pages.dev/file/ffa55e2c925308cea1939.png
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 孤独摇滚、日语歌曲、游戏音乐
+    music_bg: https://telegraph-image-766.pages.dev/file/af3033185f8ba1fe44c81.png
+    music_link: /music
